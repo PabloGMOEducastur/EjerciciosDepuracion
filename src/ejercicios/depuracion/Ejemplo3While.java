@@ -9,7 +9,7 @@ public class Ejemplo3While {
         final int VALOR_INICIAL = 10;  // limite inf. tabla
         final int VALOR_FINAL = 100;  // limite sup. tabla
         final int PASO = 10 ; // incremento
-        int fahrenheit;
+        double fahrenheit;
         double celsius;
         fahrenheit = VALOR_INICIAL;
         System.out.printf("Fahrenheit \t Celsius \n");
