@@ -2,11 +2,19 @@ package ejercicios.depuracion;
 
 import java.util.Scanner;
 public class Ejemplo1While {
+<<<<<<< HEAD
 	private int suma, contador;
 	
 	public void Ejemeplo1While() {
 	this.suma=0;
 	this.contador=0;
+=======
+	private int suma, numero;
+	
+	public void Ejemeplo1While() {
+	this.suma=0;
+	this.numero=0;
+>>>>>>> feature/mejoras
 	}
 		
     public static void main(String[] args) {
