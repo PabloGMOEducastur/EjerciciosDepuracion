@@ -22,7 +22,7 @@ public class FactorialPGM {
 		     }
 		 }
 
-		 // Cerrar el escáner
+		
 		       scanner.close();
 
 	}
